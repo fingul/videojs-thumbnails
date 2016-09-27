@@ -4,7 +4,7 @@
   "description": "progress bar thumbnails plugin for video.js",
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/hola/videojs-thumbnails.git"
+    "url": "git+https://github.com/fingul/videojs-thumbnails.git"
   },
   "devDependencies": {
     "grunt": "^0.4.4",
