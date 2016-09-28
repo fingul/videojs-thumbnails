@@ -1,3 +1,17 @@
+TODO
+====
+Integreate `Video.js resolution switcher`
+
+- <https://kmoskwiak.github.io/videojs-resolution-switcher/>
+- <https://github.com/kmoskwiak/videojs-resolution-switcher/>
+
+
+Current Mood
+============
+- https://github.com/brightcove/videojs-thumbnails : out dated
+- https://github.com/dirkjanm/videojs-vtt-thumbnails : not working with 5.x
+- https://github.com/dirkjanm/videojs-vtt-thumbnails/network : we need monitoring
+
 Video.js Thumbnails
 ===================
 A plugin that allows you to configure thumbnails to display when the user is hovering over the progress bar or dragging it to seek.
