@@ -7,8 +7,9 @@
     "url": "git+https://github.com/fingul/videojs-thumbnails.git"
   },
   "devDependencies": {
-    "grunt": "^0.4.4",
-    "grunt-contrib-connect": "^0.9.0",
-    "grunt-contrib-jshint": "^0.10.0"
+    "video.js": "latest",
+    "grunt": "~0.4.0",
+    "grunt-contrib-connect": "^1.0.2",
+    "grunt-contrib-jshint": "^1.0.0"
   }
 }
